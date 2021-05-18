@@ -1,5 +1,5 @@
 """
-Implement a one-dimensional chess game that two users can play against
+Implement a one-dimensional chess game for two users to play against
 each other.
 
 # Overview

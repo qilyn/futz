@@ -2,8 +2,8 @@
 Da Vinci is a busy man and he wants to mix his colours in as few actions
 as possible.
 
-The trouble is, his colours are not perfect. Assume that each of Da Vinci's paints
-can be represented as percentages of red, yellow and blue.
+The trouble is, his colours are not perfect. Assume that each of Da Vinci's
+paints can be represented as percentages of red, yellow and blue.
 
 (Assume that he only cares about the hue; his black and white are fine and
 he'll use them to reduce the saturation and make a paint darker or lighter)
