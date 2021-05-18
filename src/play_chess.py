@@ -23,7 +23,8 @@ The game can end in two ways:
 - winning: one side puts the other in checkmate
 - a draw: the current player cannot make any legal moves but is not in check
 
-The king cannot move into check (a space that an enemy piece threatens).
+A piece 'threatens' any square that it can move into.
+The king cannot move into check (a place that is threatened).
 A player cannot make a move that puts their own king into check.
 
 ## Movement
